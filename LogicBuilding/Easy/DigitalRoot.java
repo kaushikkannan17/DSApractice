@@ -25,7 +25,9 @@ public class DigitalRoot
     // Space Complexity: O(1)
     public static int digitalRootFormula(int number) 
     {
-        return (number != 0) ? number % 9 : 0;
+        if(number == 0) return 0;
+        if(number % 9 == 0) return 9;
+        return number % 9;
     }
 
     public static void main(String[] args) 
