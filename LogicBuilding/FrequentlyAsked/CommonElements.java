@@ -1,4 +1,4 @@
-package DSApractice.LogicBuilding.Other;
+package DSApractice.LogicBuilding.FrequentlyAsked;
 
 import java.util.ArrayList;
 import java.util.Arrays;

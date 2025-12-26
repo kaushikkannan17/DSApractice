@@ -1,4 +1,4 @@
-package DSApractice.LogicBuilding.Other;
+package DSApractice.LogicBuilding.FrequentlyAsked;
 
 public class CheckVowel 
 {
